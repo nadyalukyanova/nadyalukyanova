@@ -4,16 +4,6 @@
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
 
-## Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-- [Postman для тестировщика 2023: обзор функций и интерфейса](https://www.youtube.com/watch?v=B2TxMRFBm8I)
-- [Как просить пересмотр зарплаты? #тестировщикснуля #войтивайти #shorts](https://www.youtube.com/watch?v=5sMR7e6mS4U)
-- [Что делать, если на проекте нет требований? #тестировщикснуля #войтивайти #shorts](https://www.youtube.com/watch?v=QW6hM-vDLxw)
-- [Баги и дефекты это не KPI #войтивайти #тестировщикснуля #shorts](https://www.youtube.com/watch?v=Ig2HXBROEL8)
-- [Есть ли в айти эйджизм или дискриминация по возрасту? #тестировщикснуля #войтивайти #shorts](https://www.youtube.com/watch?v=xdGvOsFADmw)
-<!-- YOUTUBE:END -->
-
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
@@ -44,5 +34,3 @@
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/qachanell)
 [![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)](https://twitter.com/rusau_qa)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/artsiomrusau/)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artichokeee&show_icons=true&theme=radical)
