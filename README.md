@@ -1,9 +1,10 @@
 ![Header](https://github.com/nadyalukyanova/nadyalukyanova/blob/main/assets/Logo%20for%20git.jpg)
 
-## I'm a QA Engineer and Tutor. 
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
+## I'm a beginner QA Engineer. 
+## Learn something new about software testing every day.
+
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+[Link to my CV](здесь будет ссылка)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
