@@ -31,4 +31,4 @@
 ### Follow Me
 
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=)](https://t.me/Spera_L)
-[![Header](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=27A0D9)](www.linkedin.com/in/nadezhda-lukyanova)
+[![Header](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=27A0D9)](www.linkedin.com/in/nadezhda-lukyanova/)
