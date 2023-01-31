@@ -1,3 +1,5 @@
+![Header](https://github.com/nadyalukyanova/nadyalukyanova/blob/main/assets/Logo%20for%20git.jpg)
+
 ## I'm a QA Engineer and Tutor. 
 ## A creator of "Artsiom Rusau QA Life" Youtube channel 
 ## My CV
