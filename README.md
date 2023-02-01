@@ -20,13 +20,13 @@
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy)
 
 
-### Testing Documentation
+### Testing Artefacts
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Checklists](https://github.com/nadyalukyanova/Checklists.git)
+- [Test-Cases](https://github.com/nadyalukyanova/Test-cases.git)
+- [Bug-Reports](https://github.com/nadyalukyanova/Bug-Reports.git)
+- [SQL Queries](https://github.com/nadyalukyanova/SQLqueries.git)
+- [Postman Collections](https://github.com/nadyalukyanova/Postman-Collections.git)
 
 ### Follow Me
 
