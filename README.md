@@ -27,6 +27,7 @@
 - [Bug-Reports](https://github.com/nadyalukyanova/Bug-Reports.git)
 - [SQL Queries](https://github.com/nadyalukyanova/SQLqueries.git)
 - [Postman Collections](https://github.com/nadyalukyanova/Postman-Collections.git)
+- [Bash](https://github.com/nadyalukyanova/Bash.git)
 
 ### Follow Me
 
