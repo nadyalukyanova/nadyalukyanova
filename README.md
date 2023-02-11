@@ -1,4 +1,4 @@
-![Header](https://github.com/nadyalukyanova/nadyalukyanova/tree/main/assets)
+![Header](https://github.com/nadyalukyanova/nadyalukyanova/blob/main/assets/picture.jpg)
 
 ## I'm a beginner QA Engineer. 
 ## Learn something new about software testing every day.
