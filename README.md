@@ -3,7 +3,8 @@
 ## I'm a beginner QA Engineer. 
 ## Learn something new about software testing every day.
 
-[![My CV](https://disk.yandex.ru/i/r06OCowtqeR4ow)](https://disk.yandex.ru/i/r06OCowtqeR4ow)
+### My CV 
+[Link to my CV](https://disk.yandex.ru/i/r06OCowtqeR4ow)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/QASE-090909?style=for-the-badge)
