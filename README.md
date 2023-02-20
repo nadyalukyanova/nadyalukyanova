@@ -4,7 +4,7 @@
 ## Learn something new about software testing every day.
 
 ### My CV 
-[Link to my CV](https://disk.yandex.ru/i/r06OCowtqeR4ow)
+[Link to my CV](https://drive.google.com/file/d/1eAIvBuWYpbAE0sW07pzcdauwWM1c1aR2/view?usp=sharing)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/QASE-090909?style=for-the-badge)
