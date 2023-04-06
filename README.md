@@ -6,6 +6,8 @@
 ### My CV 
 [Link to my CV](https://drive.google.com/drive/folders/1Voj7Txm8H79cXKXYhMhCCR-7fNXJqoMS?usp=share_link)
 
+[Recommendations](https://github.com/nadyalukyanova/Recommendations.git)
+
 ### Language and Tools
 ![Header](https://img.shields.io/badge/QASE-090909?style=for-the-badge)
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
