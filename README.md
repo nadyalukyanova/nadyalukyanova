@@ -10,7 +10,7 @@
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/QASE-090909?style=for-the-badge)
-![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
+![Header](https://img.shields.io/badge/Jira-90909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=trello&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Confluence-090909?style=for-the-badge&logo=Confluence&logoColor=136be1)
 ![Header](https://img.shields.io/badge/YouTrack-090909?style=for-the-badge)
